@@ -1,0 +1,18 @@
+# Virtual env / caches / editors
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+
+# Local secrets/config
+config.yaml
+
+# Data & outputs
+data/raw/
+data/processed/
+outputs/
+
+# OS junk
+.DS_Store
+Thumbs.db
